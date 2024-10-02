@@ -2,7 +2,7 @@
 * @Author: Marte
 * @Date:   2024-09-30 23:09:02
 * @Last Modified by:   Marte
-* @Last Modified time: 2024-10-01 16:40:13
+* @Last Modified time: 2024-10-02 23:14:44
 */
 @font-face {
   font-family: Super Moods;
@@ -183,7 +183,7 @@ h1 {
 }
 
 .section-3 .flex-center {
-  margin-top: 5rem;
+  margin-top: 0rem;
   margin-bottom: 5rem;
 }
 
@@ -285,7 +285,7 @@ h1 {
   }
 
   .section-3 .flex-center {
-    padding: 1rem;
+    padding: 0rem;
   }
 
   .links a, .links-2 a {
@@ -337,7 +337,7 @@ h1 {
   }
 
   .section-3 p {
-    font-size: 33px;
+    font-size: 23px;
     text-align: center;
   }
 
